@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Background Sync Manager</string>
+    <string name="descLogo">Eureka Infosoluciones Logo</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="reenable_sync_notification_title">SyncManager Notification</string>
+	<string name="reenable_sync_notification_content">Tap here to go to accounts &amp; sync settings</string>
+</resources>

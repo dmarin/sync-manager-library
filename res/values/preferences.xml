@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="categoryGeneral">BackgroundSync Manager Settings</string>
+    <string name="titleEnableApp">Enable App</string>
+	<string name="summaryAppEnabled">App enabled</string>
+	<string name="summaryAppDisabled">App disabled</string>
+	
+	<string name="titleRate">Rate It!</string>
+	<string name="summaryRate">If you like this app, please give us a positive feedback ;)</string>
+	<string name="titleUpgrade">Remove Adverts</string>
+	<string name="summaryUpgrade">You can purchase a different version of this app but without ads.</string>
+</resources>

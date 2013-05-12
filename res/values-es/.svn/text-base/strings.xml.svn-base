@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Background Sync Manager</string>
+    <string name="menu_settings">Ajustes</string>
+    
+    <!-- Items regarding notifications -->
+    <string name="pref_header_notifications">Notificaciones</string>
+    <string name="reenable_sync_notification_title">Notificación de SyncManager</string>
+	<string name="reenable_sync_notification_content">Toca aquí para ir a la pantalla de ajustes de sincronizacion</string>
+</resources>

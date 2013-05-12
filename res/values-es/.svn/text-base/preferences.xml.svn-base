@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="categoryGeneral">Ajustes De BackgroundSync Manager</string>
+    <string name="titleEnableApp">Activar App</string>
+	<string name="summaryAppEnabled">Aplicación habilitada</string>
+	<string name="summaryAppDisabled">Aplicación deshabilitada</string>
+	
+	<string name="titleRate">¡Puntúalo!</string>
+	<string name="summaryRate">Si le gusta esta aplicación, por favor valorela en Google Play ;)</string>
+	<string name="titleUpgrade">Quitar publicidad</string>
+	<string name="summaryUpgrade">Si le gusta Background Sync Manager pero le molesta la publicidad, ¡actualicé!</string>
+</resources>
